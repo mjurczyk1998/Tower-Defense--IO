@@ -1,0 +1,5 @@
+Uruchom program po przez wybór opcji nr 1 w menu głównym. Następnie wpisz 3 liczby oddzielone spacją, oznaczające kolejno: liczbę miast, liczbę dróg w państwie oraz maksymalną liczbę wież.
+
+W kolejnych krokach należy podać parę liczb tyle razy ile zadeklarowaliśmy dróg w państwie. Para ta oznacza iż pomiędzy danymi miastami istnieje droga. Np. wpisując "4 9" mówimy iż w państwie miasto numer 4 jest połączone drogą z miastem numer 9.
+
+Powodzenia!

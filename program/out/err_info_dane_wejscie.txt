@@ -1,0 +1,2 @@
+s d -> Zly typ wprowadzanych danych lub ich niewlasciwa ilosc.
+23 -> Zly typ wprowadzanych danych lub ich niewlasciwa ilosc.
