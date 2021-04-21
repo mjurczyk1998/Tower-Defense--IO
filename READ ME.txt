@@ -2,7 +2,7 @@ ___PL___
 Program ten jest moją autorką implementacją zadania z Olimpiady Informatycznej. Realizowałem je w 2020 r., 
 na 3 semestrze studiów na Politechnice Śląskiej w ramach przetmiotu Języki Skryptowe.
 W powyższej implementacji posłużyłem się językiem Python (pliki wykonywalne) oraz językiem skryptowym (obsługa programu),
-jako że miała być to w pełni funkcjonalny program przy użyciu wielu plików; plików wykonywalnych oraz plików wyjścia i wyjścia.
+jako że miała być to w pełni funkcjonalna aplikacja przy użyciu wielu plików; plików wykonywalnych oraz plików wejścia i wyjścia.
 
 ___EN___
 This program is an example of my implemetation of task from Informatic Competition.
